@@ -15,6 +15,7 @@ The extruder uses an upper and lower 50T gears meshed with one another.  Notice 
 Notice also that the lower gearset guilder is meant to run with a bushing to replace the idler drive gear on the original bondtech set. It is [5mm ID x 8mm OD and 10mm in length](https://www.amazon.com/dp/B09CD8QSG3?psc=1&ref=ppx_yo2ov_dt_b_product_details).   The upper gearset uses the standard configuration.
 
 ![Lower Gearset](Images/lower_guilder.jpg)
+![Lower Gearset Render](Images/bushing.PNG)
 
 ## Standing on the shoulder of giants: the many who made this extruder possible
 The sherpa crew mini is a derivative work from [Churls Double Sherpa](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Churls-Double_Sherpa_Mini) and the work by the Voron and the 3d printer community at large on helping with creative ways to slay [Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) (i.e. inconsistent extrusion).  As a derivate work from Annex Engineering, the product [license](https://github.com/Annex-Engineering/ANNEX-Engineering-License-Agreement) is the same as the original [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/).
