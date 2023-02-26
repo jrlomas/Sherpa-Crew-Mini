@@ -12,7 +12,7 @@ The extruder uses an upper and lower 50T gears meshed with one another.  Notice 
 
 ![Sherpa Double Gears](Images/mechanism.png)
 
-Notice also that the lower gearset guilder is meant to run with a bushing to replace the idler drive gear on the original bondtech set.  The upper gearset uses the standard configuration.
+Notice also that the lower gearset guilder is meant to run with a bushing to replace the idler drive gear on the original bondtech set. It is [5mm ID x 8mm OD and 10mm in length](https://www.amazon.com/dp/B09CD8QSG3?psc=1&ref=ppx_yo2ov_dt_b_product_details).   The upper gearset uses the standard configuration.
 
 ![Lower Gearset](Images/lower_guilder.jpg)
 
