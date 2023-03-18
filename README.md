@@ -1,4 +1,4 @@
-# Sherpa *Crew* Mini [Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) Slayer
+# Sherpa *Crew* Mini v1.1 [Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) Slayer
 
 ## Product Info
 
@@ -23,3 +23,15 @@ The sherpa crew mini is a derivative work from [Churls Double Sherpa](https://gi
 Thanks to: [Aneex Engineering](https://store.annex.engineering/) for the original design; to Meelis on discord for his tiredlessly, obsessive characterization and testing of different extruders, and the grandfather of this extruder design; and to the Voron community for all of the support.
 
 Happy printing!
+
+## Changelog
+### v1.1
+* Corrected alignment between several of the parts
+* Styling changes to rear, front, and back housing
+* Included alternative options for PTFE tube connection for the main housing including:
+  * ECAS04 
+  * PC4-M6
+* Only STP files are now included to stream publishing
+
+### v1.0
+* Initial Release
