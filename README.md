@@ -2,7 +2,8 @@
 
 ## Product Info
 
-The Sherpa Crew Mini is a 3d printer extruder that uses two sets of Bondtech (or any other clone) 5mm gears.  It is designed to allow for smooth layer stacking (provided no other motion parts on your printer have any issues), slaying the pesky [Voron Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) and [Prusa3d Issue #602](https://github.com/prusa3d/Prusa-Firmware/issues/602).  It is compact and it uses a single thumbscrew for even pressure on both the upper and power gears. 
+The Sherpa Crew Mini is a 3d printer extruder that uses two sets of Bondtech (or any other clone) 5mm gears.  It is designed to allow for smooth layer stacking (provided no other motion parts on your printer have any issues), slaying the pesky [Voron Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) and [Prusa3d Issue #602](https://github.com/prusa3d/Prusa-Firmware/issues/602).  It is compact and it uses a single thumbscrew for even pressure on both the upper and power gears.
+The extruder provides extreme performance at the cost of increased weight and cost.  If cost or weight are of a concern, one might try using the [Sherpa Zero](https://github.com/jrlomas/Sherpa-Zero), instead. It uses a single additional screw to remove the backlash from the front involute gears.
 
 ![Sherpa Crew Headshot Left](Images/left_side_v1.1.PNG)
 ![Sherpa Crew Headshot Right](Images/right_side_v1.1.PNG)
