@@ -1,4 +1,4 @@
-# Sherpa *Crew* Mini v1.1 [Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) Slayer
+# Sherpa *Crew* Mini v1.1 [Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) Slayer (made by knight_rad.iant in Discord)
 
 ## Product Info
 
