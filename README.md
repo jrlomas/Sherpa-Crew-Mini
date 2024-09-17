@@ -1,3 +1,5 @@
+##If you are thinking about trying this extruder, you should seriously consider its newer, slicker, more compact and refined brother, [The Miró](https://github.com/jrlomas/miro-extruder)
+
 # Sherpa *Crew* Mini v1.1 [Issue #6](https://github.com/VoronDesign/Voron-Afterburner/issues/6) Slayer (made by knight_rad.iant in Discord)
 
 ## Product Info
